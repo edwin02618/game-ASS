@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c8a87bf225947274aaa6d55627498c61
+guid: a7ee82c28f354c640ab51cd1716549e2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gost scared_0
+      name: Pacstudent up_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 65
-        width: 19
-        height: 30
+        x: 7
+        y: 67
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 981947e7b348c10458f12362f14b4b7e
-      internalID: -1081129912
+      spriteID: c9422a16743b3a944ade6772fd6cea4c
+      internalID: -1734574256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gost scared_1
+      name: Pacstudent up_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 65
-        width: 19
-        height: 30
+        x: 39
+        y: 67
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 586b03233cb72b3408397ef2e6fb7d91
-      internalID: 1653505084
+      spriteID: d7bc36de9da8f83468609162ac628b84
+      internalID: 1490236676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gost scared_2
+      name: Pacstudent up_2
       rect:
         serializedVersion: 2
-        x: 6
-        y: 33
-        width: 19
-        height: 30
+        x: 7
+        y: 35
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cdccc91fe375dc4d81e547ce866735b
-      internalID: 2055757893
+      spriteID: 9671375c346f14746bde37ec75c6b327
+      internalID: 787590239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gost scared_3
+      name: Pacstudent up_3
       rect:
         serializedVersion: 2
-        x: 38
-        y: 33
-        width: 19
-        height: 30
+        x: 39
+        y: 35
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dbe7e7a1eb97664289898c633d02393
-      internalID: -420979003
+      spriteID: ed8219262cd8488498f0e3f97c995c1e
+      internalID: 7104862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gost scared_4
+      name: Pacstudent up_4
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1
-        width: 19
-        height: 30
+        x: 7
+        y: 3
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,29 +214,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41cb40db28361a947a0154799303de0e
-      internalID: -1949372948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gost scared_5
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 1
-        width: 19
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c54d63680fdb91d42b8e96ec268434b6
-      internalID: -2065433628
+      spriteID: f462f3f33124c2741a9aaf7e7b0cd44f
+      internalID: -117555958
       vertices: []
       indices: 
       edges: []
@@ -252,12 +231,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      gost scared_0: -1081129912
-      gost scared_1: 1653505084
-      gost scared_2: 2055757893
-      gost scared_4: -1949372948
-      gost scared_5: -2065433628
-      gost scared_3: -420979003
+      Pacstudent up_2: 787590239
+      Pacstudent up_4: -117555958
+      Pacstudent up_1: 1490236676
+      Pacstudent up_3: 7104862
+      Pacstudent up_0: -1734574256
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

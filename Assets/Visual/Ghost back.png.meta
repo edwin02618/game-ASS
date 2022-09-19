@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c8a87bf225947274aaa6d55627498c61
+guid: b66dbe99e50d13d45bcdb53d60548c99
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,7 +116,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gost scared_0
+      name: Ghost back_0
       rect:
         serializedVersion: 2
         x: 6
@@ -130,14 +130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 981947e7b348c10458f12362f14b4b7e
-      internalID: -1081129912
+      spriteID: 26ac5569464179a4b9ce296d8ce9e98d
+      internalID: -1808669775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gost scared_1
+      name: Ghost back_1
       rect:
         serializedVersion: 2
         x: 38
@@ -151,14 +151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 586b03233cb72b3408397ef2e6fb7d91
-      internalID: 1653505084
+      spriteID: 03ca7e9ad0106194cb4e34355ed22183
+      internalID: 1461754180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gost scared_2
+      name: Ghost back_2
       rect:
         serializedVersion: 2
         x: 6
@@ -172,14 +172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cdccc91fe375dc4d81e547ce866735b
-      internalID: 2055757893
+      spriteID: 93febec84bf359849be2109184c42164
+      internalID: -1204465636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gost scared_3
+      name: Ghost back_3
       rect:
         serializedVersion: 2
         x: 38
@@ -193,14 +193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dbe7e7a1eb97664289898c633d02393
-      internalID: -420979003
+      spriteID: f54d0609e342a724690fea9143b04c3d
+      internalID: 1588407719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gost scared_4
+      name: Ghost back_4
       rect:
         serializedVersion: 2
         x: 6
@@ -214,14 +214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41cb40db28361a947a0154799303de0e
-      internalID: -1949372948
+      spriteID: 144198c54e6a6584eaeccaf088fe35a3
+      internalID: 606336503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gost scared_5
+      name: Ghost back_5
       rect:
         serializedVersion: 2
         x: 38
@@ -235,8 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c54d63680fdb91d42b8e96ec268434b6
-      internalID: -2065433628
+      spriteID: 446513465cfce1e47970dddc56da6687
+      internalID: 1123151495
       vertices: []
       indices: 
       edges: []
@@ -252,12 +252,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      gost scared_0: -1081129912
-      gost scared_1: 1653505084
-      gost scared_2: 2055757893
-      gost scared_4: -1949372948
-      gost scared_5: -2065433628
-      gost scared_3: -420979003
+      Ghost back_5: 1123151495
+      Ghost back_3: 1588407719
+      Ghost back_4: 606336503
+      Ghost back_0: -1808669775
+      Ghost back_2: -1204465636
+      Ghost back_1: 1461754180
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
