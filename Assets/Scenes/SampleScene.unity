@@ -7868,7 +7868,7 @@ GameObject:
   - component: {fileID: 1414694017}
   - component: {fileID: 1414694021}
   - component: {fileID: 1414694020}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Pacstudent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
