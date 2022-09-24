@@ -46,6 +46,7 @@ public class waypoint : MonoBehaviour
             animator.SetInteger("direction", 1);
         }
         Move();
+        
 
     }
     void Move()
